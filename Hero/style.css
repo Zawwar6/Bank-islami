@@ -1,0 +1,49 @@
+.bg-gradient-primary {
+ background: linear-gradient(270deg, rgba(0, 0, 0, 0.00) -3.3%, rgba(24, 64, 124,0.80)100%);
+}
+
+.mission{
+  background: rgba(140, 197, 63, 0.20);
+}
+.btn{
+    background-color:#8CC53F;
+    padding: 10px 32px;
+    width: fit-content;
+    color:#18407C ;
+}
+p{
+    font-size: 18px;
+}
+h2{
+    font-size: 54px;
+}
+h3{
+    font-size: 34px;
+}
+h4{
+    font-size: 15px;
+}
+ .swiper-button-next,
+  .swiper-button-prev {
+    color: #18407C;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .swiper-button-prev {
+    left: 10px !important;
+  }
+  .swiper-button-next {
+    right: 10px !important;
+  }
+.child{
+  background-color:#F6F7FA ;
+}
+.child:hover{
+  background-color: #18407C;
+  transition: background-color 0.3s ease;
+
+}
+
+.child:hover g{
+  fill: #F6F7FA;
+}
